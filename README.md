@@ -4,7 +4,7 @@
 
 - I’m currently working on **ScrumHub Tool**, leveraging **React.js**, **Tailwind CSS**, and **Spring Boot** to streamline Scrum workflows and enhance team collaboration.
 
-- I’m currently expanding my expertise in **Java, Spring Boot**, **Test Automation** using Selenium, TestNG, and Playwright.
+- I’m currently expanding my expertise in **Java, Spring Boot**, **Test Automation** using Selenium, alm.
 
 - Reach me at **edisonzyberaj@gmail.com**
 
